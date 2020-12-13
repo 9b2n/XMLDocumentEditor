@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code>
+    <!-- header -->
+    <header>
+        <include> stdio.h </include>
+        <define> MAX </define>
+    </header>
+    <func>
+        <print> output </print>
+        <scan> input </scan>
+    </func>
+    <main>
+        <int> num </int>
+        <char> name </char>
+    </main>
+</code>

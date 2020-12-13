@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="XML01_MiniProject4_BangGyuBin_16011050.xsl" type="text/xsl" ?>
+<monitor_list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:schemaLocation="http://www.computer.org XML01_MiniProject4_01.xsd"
+        xmlns="http://www.computer.org"
+        xmlns:mon="http://www.monitor.org"
+        xmlns:pri="http://www.price.org">
+        <!-- MONITOR SECTION -->
+    <monitor code="001">
+        <figure src="S27R350.jpg" width="150" height="150" />
+        <basic>
+            <monitor_name>S27R350</monitor_name>
+            <brand>SAMSUNG</brand>
+        </basic>
+        <mon:detailed>
+            <mon:screen_size unit="inch">27</mon:screen_size>
+            <mon:panel>IPS</mon:panel>
+            <mon:reaction_rate unit="ms">5</mon:reaction_rate>
+            <mon:frequency>75</mon:frequency>
+            <mon:freesync>O</mon:freesync>
+            <mon:flat type="flat" />
+        </mon:detailed>
+        <sales>
+            <buys>570</buys>
+            <pri:price monetary_unit="won">187400 &#8361;</pri:price>
+        </sales>
+    </monitor>
+
+    <monitor code="002">
+        <figure src="24MK430H.jpg" width="150" height="150" />
+        <basic>
+            <monitor_name>24MK430H</monitor_name>
+            <brand>LG</brand>
+        </basic>
+        <mon:detailed>
+            <mon:screen_size unit="inch">24</mon:screen_size>
+            <mon:panel>IPS</mon:panel>
+            <mon:reaction_rate unit="ms">5</mon:reaction_rate>
+            <mon:frequency>75</mon:frequency>
+            <mon:freesync>O</mon:freesync>
+            <mon:flat type="flat" />
+        </mon:detailed>
+        <sales>
+            <buys>2929</buys>
+            <pri:price monetary_unit="won">141000 &#8361;</pri:price>
+        </sales>
+
+    </monitor>
+
+    <monitor code="003">
+        <figure src="ULTRON3278.jpg" width="150" height="150" />
+        <basic>
+            <monitor_name>ULTRON3278</monitor_name>
+            <brand>HANSUNG</brand>
+        </basic>
+        <mon:detailed>
+            <mon:screen_size unit="inch">32</mon:screen_size>
+            <mon:panel>IPS</mon:panel>
+            <mon:reaction_rate unit="ms">3</mon:reaction_rate>
+            <mon:frequency>75</mon:frequency>
+            <mon:freesync>X</mon:freesync>
+            <mon:flat type="flat" />
+        </mon:detailed>
+        <sales>
+            <buys>766</buys>
+            <pri:price monetary_unit="won">229000 &#8361;</pri:price>
+        </sales>
+    </monitor>
+
+    <monitor code="004">
+        <figure src="U32J590.jpg" width="150" height="150" />
+        <basic>
+            <monitor_name>U32J590</monitor_name>
+            <brand>SAMSUNG</brand>
+        </basic>
+        <mon:detailed>
+            <mon:screen_size unit="inch">32</mon:screen_size>
+            <mon:panel>VA</mon:panel>
+            <mon:reaction_rate unit="ms">4</mon:reaction_rate>
+            <mon:frequency>60</mon:frequency>
+            <mon:freesync>O</mon:freesync>
+            <mon:flat type="flat" />
+        </mon:detailed>
+        <sales>
+            <buys>2025</buys>
+            <pri:price monetary_unit="won">365000 &#8361;</pri:price>
+        </sales>
+    </monitor>
+
+    <monitor code="005">
+        <figure src="271E1.jpg" width="150" height="150" />
+        <basic>
+            <monitor_name>271E1</monitor_name>
+            <brand>PHILIPS</brand>
+        </basic>
+        <mon:detailed>
+            <mon:screen_size unit="inch">27</mon:screen_size>
+            <mon:panel>IPS</mon:panel>
+            <mon:reaction_rate unit="ms">4</mon:reaction_rate>
+            <mon:frequency>75</mon:frequency>
+            <mon:freesync>O</mon:freesync>
+            <mon:flat type="flat" />
+        </mon:detailed>
+        <sales>
+            <buys>1078</buys>
+            <pri:price monetary_unit="won">199000 &#8361;</pri:price>
+        </sales>
+    </monitor>
+
+    <monitor code="006">
+        <figure src="TFG32Q14F.jpg" width="150" height="150" />
+        <basic>
+            <monitor_name>TFG32Q14F</monitor_name>
+            <brand>HANSUNG</brand>
+        </basic>
+        <mon:detailed>
+            <mon:screen_size unit="inch">32</mon:screen_size>
+            <mon:panel>VA</mon:panel>
+            <mon:reaction_rate unit="ms">1</mon:reaction_rate>
+            <mon:frequency>144</mon:frequency>
+            <mon:freesync>O</mon:freesync>
+            <mon:flat type="flat" />
+        </mon:detailed>
+        <sales>
+            <buys>76</buys>
+            <pri:price monetary_unit="won">319000 &#8361;</pri:price>
+        </sales>
+    </monitor>
+
+    <monitor code="007">
+        <figure src="S24F350.jpg" width="150" height="150" />
+        <basic>
+            <monitor_name>S24F350</monitor_name>
+            <brand>SAMSUNG</brand>
+        </basic>
+        <mon:detailed>
+            <mon:screen_size unit="inch">24</mon:screen_size>
+            <mon:panel>PLS</mon:panel>
+            <mon:reaction_rate unit="ms">4</mon:reaction_rate>
+            <mon:frequency>60</mon:frequency>
+            <mon:freesync>O</mon:freesync>
+            <mon:flat type="flat" />
+        </mon:detailed>
+        <sales>
+            <buys>2533</buys>
+            <pri:price monetary_unit="won">124000 &#8361;</pri:price>
+        </sales>
+    </monitor>
+
+    <monitor code="008">
+        <figure src="325E.jpg" width="150" height="150" />
+        <basic>
+            <monitor_name>325E</monitor_name>
+            <brand>PHILIPS</brand>
+        </basic>
+        <mon:detailed>
+            <mon:screen_size unit="inch">32</mon:screen_size>
+            <mon:panel>IPS</mon:panel>
+            <mon:reaction_rate unit="ms">5</mon:reaction_rate>
+            <mon:frequency>75</mon:frequency>
+            <mon:freesync>O</mon:freesync>
+            <mon:flat type="flat" />
+        </mon:detailed>
+        <sales>
+            <buys>34</buys>
+            <pri:price monetary_unit="won">299000 &#8361;</pri:price>
+        </sales>
+    </monitor>
+
+    <monitor code="009">
+        <figure src="ULTRON2757C.jpg" width="150" height="150" />
+        <basic>
+            <monitor_name>ULTRON2757C</monitor_name>
+            <brand>HANSUNG</brand>
+        </basic>
+        <mon:detailed>
+            <mon:screen_size unit="inch">27</mon:screen_size>
+            <mon:panel>VA</mon:panel>
+            <mon:reaction_rate unit="ms">1</mon:reaction_rate>
+            <mon:frequency>144</mon:frequency>
+            <mon:freesync>O</mon:freesync>
+            <mon:flat type="curved" />
+        </mon:detailed>
+        <sales>
+            <buys>17</buys>
+            <pri:price monetary_unit="won">329000 &#8361;</pri:price>
+        </sales>
+    </monitor>
+
+    <monitor code="010">
+        <figure src="C32F397.jpg" width="150" height="150" />
+        <basic>
+            <monitor_name>C32F397</monitor_name>
+            <brand>SAMSUNG</brand>
+        </basic>
+        <mon:detailed>
+            <mon:screen_size unit="inch">32</mon:screen_size>
+            <mon:panel>VA</mon:panel>
+            <mon:reaction_rate unit="ms">4</mon:reaction_rate>
+            <mon:frequency>60</mon:frequency>
+            <mon:freesync>X</mon:freesync>
+            <mon:flat type="curved" />
+        </mon:detailed>
+        <sales>
+            <buys>1918</buys>
+            <pri:price monetary_unit="won">214000 &#8361;</pri:price>
+        </sales>
+    </monitor>
+
+    <monitor code="011">
+        <figure src="C27R502.jpg" width="150" height="150" />
+        <basic>
+            <monitor_name>C27R502</monitor_name>
+            <brand>SAMSUNG</brand>
+        </basic>
+        <mon:detailed>
+            <mon:screen_size unit="inch">27</mon:screen_size>
+            <mon:panel>VA</mon:panel>
+            <mon:reaction_rate unit="ms">4</mon:reaction_rate>
+            <mon:frequency>60</mon:frequency>
+            <mon:freesync>O</mon:freesync>
+            <mon:flat type="curved" />
+        </mon:detailed>
+        <sales>
+            <buys>565</buys>
+            <pri:price monetary_unit="won">180000 &#8361;</pri:price>
+        </sales>
+    </monitor>
+
+    <monitor code="012">
+        <figure src="272M.jpg" width="150" height="150" />
+        <basic>
+            <monitor_name>272M</monitor_name>
+            <brand>PHILIPS</brand>
+        </basic>
+        <mon:detailed>
+            <mon:screen_size unit="inch">27</mon:screen_size>
+            <mon:panel>IPS</mon:panel>
+            <mon:reaction_rate unit="ms">1</mon:reaction_rate>
+            <mon:frequency>144</mon:frequency>
+            <mon:freesync>O</mon:freesync>
+            <mon:flat type="flat" />
+        </mon:detailed>
+        <sales>
+            <buys>412</buys>
+            <pri:price monetary_unit="won">325000 &#8361;</pri:price>
+        </sales>
+    </monitor>
+
+    <monitor code="013">
+        <figure src="27GN950.jpg" width="150" height="150" />
+        <basic>
+            <monitor_name>27GN950</monitor_name>
+            <brand>LG</brand>
+        </basic>
+        <mon:detailed>
+            <mon:screen_size unit="inch">27</mon:screen_size>
+            <mon:panel>IPS</mon:panel>
+            <mon:reaction_rate unit="ms">1</mon:reaction_rate>
+            <mon:frequency>144</mon:frequency>
+            <mon:freesync>O</mon:freesync>
+            <mon:flat type="flat" />
+        </mon:detailed>
+        <sales>
+            <buys>309</buys>
+            <pri:price monetary_unit="won">1090000 &#8361;</pri:price>
+        </sales>
+    </monitor>
+
+    <monitor code="014">
+        <figure src="ULTRON2433V.jpg" width="150" height="150" />
+        <basic>
+            <monitor_name>ULTRON2433V</monitor_name>
+            <brand>HANSUNG</brand>
+        </basic>
+        <mon:detailed>
+            <mon:screen_size unit="inch">24</mon:screen_size>
+            <mon:panel>IPS</mon:panel>
+            <mon:reaction_rate unit="ms">5</mon:reaction_rate>
+            <mon:frequency>75</mon:frequency>
+            <mon:freesync>O</mon:freesync>
+            <mon:flat type="flat" />
+        </mon:detailed>
+        <sales>
+            <buys>55</buys>
+            <pri:price monetary_unit="won">129000 &#8361;</pri:price>
+        </sales>
+    </monitor>
+
+    <monitor code="015">
+        <figure src="TFX32U06V.jpg" width="150" height="150" />
+        <basic>
+            <monitor_name>TFX32U06V</monitor_name>
+            <brand>HANSUNG</brand>
+        </basic>
+        <mon:detailed>
+            <mon:screen_size unit="inch">32</mon:screen_size>
+            <mon:panel>VA</mon:panel>
+            <mon:reaction_rate unit="ms">3</mon:reaction_rate>
+            <mon:frequency>60</mon:frequency>
+            <mon:freesync>O</mon:freesync>
+            <mon:flat />
+        </mon:detailed>
+        <sales>
+            <buys>134</buys>
+            <pri:price monetary_unit="won">349000 &#8361;</pri:price>
+        </sales>
+    </monitor>
+</monitor_list>
