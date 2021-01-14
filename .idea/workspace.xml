@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c7cbb05-5aed-448c-8fdf-fd154c2fe887" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/bin/AppManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/bin/AppManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$ChangeElementInputListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$ChangeElementInputListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$ChangeTextInputListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$ChangeTextInputListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$DeleteInputListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$DeleteInputListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$FindInputListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$FindInputListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$GoDownListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$GoDownListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$GoUpListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$GoUpListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$Hovering.class" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$Hovering.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$InsertInputListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$InsertInputListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$LoadInputListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$LoadInputListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$MakeInputListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$MakeInputListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$MenuButtonListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$MenuButtonListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$NodeInputListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$NodeInputListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$SaveInputListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$SaveInputListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$UpdateInputListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/bin/XmlDocumentController$UpdateInputListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/src/AppManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/src/AppManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XmlMiniProject/src/XmlDocumentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/XmlMiniProject/src/XmlDocumentController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mSV9xcLeFcvp27x8zjnHZfqCZU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c7cbb05-5aed-448c-8fdf-fd154c2fe887" name="Default Changelist" comment="" />
+      <created>1609486832913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609486832913</updated>
+      <workItem from="1609486835944" duration="675000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

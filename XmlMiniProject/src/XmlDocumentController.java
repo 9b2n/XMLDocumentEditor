@@ -274,7 +274,6 @@ public class XmlDocumentController {
 					case ButtonConstants.EXIT:
 						_view.setButtonMode(ButtonConstants.EXIT);
 						if (_view.editMode == 0 || _view.editMode == 1) {
-							_view.setButtonMode(ButtonConstants.SAVE);
 							_view.makeButtonMessageLabel();
 							_view.removeInputButtonListener();
 							_view.viewMessages();
@@ -283,7 +282,6 @@ public class XmlDocumentController {
 							_view.setVisibleBasicOptionComponents(true);
 							_view.lblInput.setText("Input file name to save the previous file.");
 							_view.addInputButtonListener(new SaveInputListener());
-							_view.setButtonMode(ButtonConstants.EXIT);
 						}
 						else System.exit(1);
 						break;
@@ -739,10 +737,11 @@ public class XmlDocumentController {
 			} else {
 				_view.removeInputButtonListener();
 				_view.addInputButtonListener(new LoadInputListener());
-				_view.setButtonMode(ButtonConstants.LOAD);
 				_view.makeButtonMessageLabel();
 				_view.viewMessages();
 				_view.setEditMode(9);
+				if(_view.getButtonMode() == ButtonConstants.EXIT)
+					System.exit(1);
 			}
 		}
 	}

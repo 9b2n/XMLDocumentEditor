@@ -15,7 +15,6 @@ public class AppManager {
 	private String _fileName;
 	private Node _currentNode, _parentNode;
 	private int _childIndex;
-	// 정리하기 //
 
 	public int getChildIndex() { return _childIndex;	}
 	public void setChildIndex(int childIndex) { this._childIndex = childIndex; }
@@ -43,7 +42,7 @@ public class AppManager {
 	
 	public DocumentBuilder getBuilder() { return _builder; }	
 	public void setBuilder(DocumentBuilder builder) { _builder = builder; }
-	public static AppManager getInstance() { // 이것도 스태틱으로 해줘야됌
+	public static AppManager getInstance() { 
 		if (s_instance == null)
 			s_instance = new AppManager();
 		return s_instance;
